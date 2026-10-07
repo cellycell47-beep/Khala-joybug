@@ -11,7 +11,7 @@ requirements = python3,kivy
 icon.filename = %(source.dir)s/icon.png
 orientation = portrait
 fullscreen = 1
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 android.accept_sdk_license = True
 
 [buildozer]
