@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="beeBody"><ellipse cx="64" cy="82" rx="36" ry="34"/></clipPath>
+  </defs>
+  <ellipse cx="22" cy="60" rx="20" ry="30" transform="rotate(-28 22 60)" fill="#D8F1FF" fill-opacity=".9" stroke="#2B1B33" stroke-width="4"/>
+  <ellipse cx="106" cy="60" rx="20" ry="30" transform="rotate(28 106 60)" fill="#D8F1FF" fill-opacity=".9" stroke="#2B1B33" stroke-width="4"/>
+  <path d="M54 110 L64 127 L74 110 Z" fill="#2B1B33" stroke="#2B1B33" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="64" cy="82" rx="36" ry="34" fill="#FFC83D"/>
+  <g clip-path="url(#beeBody)" fill="#2B1B33">
+    <rect x="20" y="76" width="88" height="11"/><rect x="20" y="96" width="88" height="11"/>
+  </g>
+  <ellipse cx="64" cy="82" rx="36" ry="34" fill="none" stroke="#2B1B33" stroke-width="5"/>
+  <g stroke="#2B1B33" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M44 34 C36 30 32 24 33 16"/><path d="M84 34 C92 30 96 24 95 16"/>
+  </g>
+  <circle cx="33" cy="14" r="4.5" fill="#2B1B33"/><circle cx="95" cy="14" r="4.5" fill="#2B1B33"/>
+  <circle cx="64" cy="48" r="24" fill="#FFD966" stroke="#2B1B33" stroke-width="5"/>
+  <path d="M45 28 L43 6 L54 17 L64 3 L74 17 L85 6 L83 28 Z" fill="#FFE14D" stroke="#2B1B33" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="53" cy="23" r="2.6" fill="#E8476A"/><circle cx="64" cy="21" r="3.2" fill="#E8476A"/><circle cx="75" cy="23" r="2.6" fill="#E8476A"/>
+  <ellipse cx="54" cy="50" rx="8" ry="9" fill="#FFFFFF"/><ellipse cx="74" cy="50" rx="8" ry="9" fill="#FFFFFF"/>
+  <circle cx="56" cy="52" r="4.5" fill="#2B1B33"/><circle cx="72" cy="52" r="4.5" fill="#2B1B33"/>
+  <path d="M43 39 L60 45" stroke="#2B1B33" stroke-width="5" stroke-linecap="round"/>
+  <path d="M85 39 L68 45" stroke="#2B1B33" stroke-width="5" stroke-linecap="round"/>
+  <path d="M57 65 Q64 60 71 65" stroke="#2B1B33" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+</svg>

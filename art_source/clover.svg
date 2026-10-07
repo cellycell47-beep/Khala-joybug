@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <radialGradient id="cloverFill" cx="50%" cy="48%" r="55%">
+      <stop offset="0" stop-color="#FFF3A6"/>
+      <stop offset="1" stop-color="#FFB81F"/>
+    </radialGradient>
+  </defs>
+  <path d="M64 62 C66 88 68 106 74 122" stroke="#B36B00" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <g fill="url(#cloverFill)" stroke="#B36B00" stroke-width="4" stroke-linejoin="round">
+    <path transform="rotate(45 64 62)" d="M64 62 C44 50 36 34 46 24 C54 16 62 20 64 28 C66 20 74 16 82 24 C92 34 84 50 64 62 Z"/>
+    <path transform="rotate(135 64 62)" d="M64 62 C44 50 36 34 46 24 C54 16 62 20 64 28 C66 20 74 16 82 24 C92 34 84 50 64 62 Z"/>
+    <path transform="rotate(225 64 62)" d="M64 62 C44 50 36 34 46 24 C54 16 62 20 64 28 C66 20 74 16 82 24 C92 34 84 50 64 62 Z"/>
+    <path transform="rotate(315 64 62)" d="M64 62 C44 50 36 34 46 24 C54 16 62 20 64 28 C66 20 74 16 82 24 C92 34 84 50 64 62 Z"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#B36B00" stroke-width="1.5">
+    <path transform="translate(64 14)" d="M0 -9 L2.5 -2.5 L9 0 L2.5 2.5 L0 9 L-2.5 2.5 L-9 0 L-2.5 -2.5 Z"/>
+    <path transform="translate(112 62) scale(.75)" d="M0 -9 L2.5 -2.5 L9 0 L2.5 2.5 L0 9 L-2.5 2.5 L-9 0 L-2.5 -2.5 Z"/>
+    <path transform="translate(16 62) scale(.6)" d="M0 -9 L2.5 -2.5 L9 0 L2.5 2.5 L0 9 L-2.5 2.5 L-9 0 L-2.5 -2.5 Z"/>
+  </g>
+</svg>

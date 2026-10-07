@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <radialGradient id="goldShell" cx="38%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#FFF0A0"/>
+      <stop offset="1" stop-color="#FFB81F"/>
+    </radialGradient>
+  </defs>
+  <g stroke="#2B1B33" stroke-width="6" stroke-linecap="round" fill="none">
+    <path d="M26 66 L10 58"/><path d="M22 84 L6 86"/><path d="M30 102 L16 114"/>
+    <path d="M102 66 L118 58"/><path d="M106 84 L122 86"/><path d="M98 102 L112 114"/>
+  </g>
+  <g stroke="#2B1B33" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M52 22 C48 12 40 8 32 10"/><path d="M76 22 C80 12 88 8 96 10"/>
+  </g>
+  <circle cx="30" cy="10" r="6" fill="#FFC83D" stroke="#2B1B33" stroke-width="3"/>
+  <circle cx="98" cy="10" r="6" fill="#FFC83D" stroke="#2B1B33" stroke-width="3"/>
+  <ellipse cx="64" cy="80" rx="44" ry="40" fill="url(#goldShell)" stroke="#2B1B33" stroke-width="5"/>
+  <path d="M64 60 V119" stroke="#2B1B33" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#B36B00">
+    <path transform="translate(40 80)" d="M0,-2 C-2,-7 -9,-6 -9,0 C-9,5 -3,8 0,11 C3,8 9,5 9,0 C9,-6 2,-7 0,-2 Z"/>
+    <path transform="translate(88 80)" d="M0,-2 C-2,-7 -9,-6 -9,0 C-9,5 -3,8 0,11 C3,8 9,5 9,0 C9,-6 2,-7 0,-2 Z"/>
+    <path transform="translate(48 102) scale(.7)" d="M0,-2 C-2,-7 -9,-6 -9,0 C-9,5 -3,8 0,11 C3,8 9,5 9,0 C9,-6 2,-7 0,-2 Z"/>
+    <path transform="translate(80 102) scale(.7)" d="M0,-2 C-2,-7 -9,-6 -9,0 C-9,5 -3,8 0,11 C3,8 9,5 9,0 C9,-6 2,-7 0,-2 Z"/>
+  </g>
+  <path d="M27 76 C28 66 33 60 39 57" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="64" cy="42" r="25" fill="#4A2D52" stroke="#2B1B33" stroke-width="5"/>
+  <ellipse cx="54" cy="40" rx="9" ry="10" fill="#FFFFFF"/>
+  <ellipse cx="74" cy="40" rx="9" ry="10" fill="#FFFFFF"/>
+  <circle cx="56" cy="42" r="5" fill="#2B1B33"/><circle cx="72" cy="42" r="5" fill="#2B1B33"/>
+  <circle cx="58" cy="39.5" r="1.8" fill="#FFFFFF"/><circle cx="74" cy="39.5" r="1.8" fill="#FFFFFF"/>
+  <circle cx="44" cy="53" r="4.5" fill="#FF8FA3" fill-opacity=".85"/>
+  <circle cx="84" cy="53" r="4.5" fill="#FF8FA3" fill-opacity=".85"/>
+  <path d="M56 54 Q64 62 72 54" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <g fill="#FFFFFF" stroke="#B36B00" stroke-width="1.5"><path transform="translate(114 40)" d="M0 -9 L2.5 -2.5 L9 0 L2.5 2.5 L0 9 L-2.5 2.5 L-9 0 L-2.5 -2.5 Z"/><path transform="translate(12 34) scale(.7)" d="M0 -9 L2.5 -2.5 L9 0 L2.5 2.5 L0 9 L-2.5 2.5 L-9 0 L-2.5 -2.5 Z"/></g>
+</svg>
