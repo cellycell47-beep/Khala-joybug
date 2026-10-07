@@ -1,0 +1,500 @@
+22561:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgEnableVertexAttribArray' to allow an error code to be returned.
+22562:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:419:5: Exception check on 'gil_dbgEnableVertexAttribArray' will always require the GIL to be acquired.
+22564:[DEBUG]:   	 	1. Declare 'gil_dbgEnableVertexAttribArray' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22565:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgEnableVertexAttribArray' to allow an error code to be returned.
+22566:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:424:5: Exception check on 'dbgFinish' will always require the GIL to be acquired.
+22568:[DEBUG]:   	 	1. Declare 'dbgFinish' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22569:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgFinish' to allow an error code to be returned.
+22570:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:428:5: Exception check on 'gil_dbgFinish' will always require the GIL to be acquired.
+22572:[DEBUG]:   	 	1. Declare 'gil_dbgFinish' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22573:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgFinish' to allow an error code to be returned.
+22574:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:433:5: Exception check on 'dbgFlush' will always require the GIL to be acquired.
+22576:[DEBUG]:   	 	1. Declare 'dbgFlush' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22577:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgFlush' to allow an error code to be returned.
+22578:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:437:5: Exception check on 'gil_dbgFlush' will always require the GIL to be acquired.
+22580:[DEBUG]:   	 	1. Declare 'gil_dbgFlush' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22581:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgFlush' to allow an error code to be returned.
+22582:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:442:5: Exception check on 'dbgFramebufferRenderbuffer' will always require the GIL to be acquired.
+22584:[DEBUG]:   	 	1. Declare 'dbgFramebufferRenderbuffer' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22585:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgFramebufferRenderbuffer' to allow an error code to be returned.
+22586:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:446:5: Exception check on 'gil_dbgFramebufferRenderbuffer' will always require the GIL to be acquired.
+22588:[DEBUG]:   	 	1. Declare 'gil_dbgFramebufferRenderbuffer' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22589:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgFramebufferRenderbuffer' to allow an error code to be returned.
+22590:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:451:5: Exception check on 'dbgFramebufferTexture2D' will always require the GIL to be acquired.
+22592:[DEBUG]:   	 	1. Declare 'dbgFramebufferTexture2D' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22593:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgFramebufferTexture2D' to allow an error code to be returned.
+22594:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:455:5: Exception check on 'gil_dbgFramebufferTexture2D' will always require the GIL to be acquired.
+22596:[DEBUG]:   	 	1. Declare 'gil_dbgFramebufferTexture2D' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22597:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgFramebufferTexture2D' to allow an error code to be returned.
+22598:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:460:5: Exception check on 'dbgFrontFace' will always require the GIL to be acquired.
+22600:[DEBUG]:   	 	1. Declare 'dbgFrontFace' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22601:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgFrontFace' to allow an error code to be returned.
+22602:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:464:5: Exception check on 'gil_dbgFrontFace' will always require the GIL to be acquired.
+22604:[DEBUG]:   	 	1. Declare 'gil_dbgFrontFace' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22605:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgFrontFace' to allow an error code to be returned.
+22606:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:469:5: Exception check on 'dbgGenBuffers' will always require the GIL to be acquired.
+22608:[DEBUG]:   	 	1. Declare 'dbgGenBuffers' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22609:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGenBuffers' to allow an error code to be returned.
+22610:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:473:5: Exception check on 'gil_dbgGenBuffers' will always require the GIL to be acquired.
+22612:[DEBUG]:   	 	1. Declare 'gil_dbgGenBuffers' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22613:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGenBuffers' to allow an error code to be returned.
+22614:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:478:5: Exception check on 'dbgGenerateMipmap' will always require the GIL to be acquired.
+22616:[DEBUG]:   	 	1. Declare 'dbgGenerateMipmap' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22617:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGenerateMipmap' to allow an error code to be returned.
+22618:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:482:5: Exception check on 'gil_dbgGenerateMipmap' will always require the GIL to be acquired.
+22620:[DEBUG]:   	 	1. Declare 'gil_dbgGenerateMipmap' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22621:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGenerateMipmap' to allow an error code to be returned.
+22622:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:487:5: Exception check on 'dbgGenFramebuffers' will always require the GIL to be acquired.
+22624:[DEBUG]:   	 	1. Declare 'dbgGenFramebuffers' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22625:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGenFramebuffers' to allow an error code to be returned.
+22626:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:491:5: Exception check on 'gil_dbgGenFramebuffers' will always require the GIL to be acquired.
+22628:[DEBUG]:   	 	1. Declare 'gil_dbgGenFramebuffers' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22629:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGenFramebuffers' to allow an error code to be returned.
+22630:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:496:5: Exception check on 'dbgGenRenderbuffers' will always require the GIL to be acquired.
+22632:[DEBUG]:   	 	1. Declare 'dbgGenRenderbuffers' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22633:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGenRenderbuffers' to allow an error code to be returned.
+22634:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:500:5: Exception check on 'gil_dbgGenRenderbuffers' will always require the GIL to be acquired.
+22636:[DEBUG]:   	 	1. Declare 'gil_dbgGenRenderbuffers' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22637:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGenRenderbuffers' to allow an error code to be returned.
+22638:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:505:5: Exception check on 'dbgGenTextures' will always require the GIL to be acquired.
+22640:[DEBUG]:   	 	1. Declare 'dbgGenTextures' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22641:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGenTextures' to allow an error code to be returned.
+22642:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:509:5: Exception check on 'gil_dbgGenTextures' will always require the GIL to be acquired.
+22644:[DEBUG]:   	 	1. Declare 'gil_dbgGenTextures' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22645:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGenTextures' to allow an error code to be returned.
+22646:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:514:5: Exception check on 'dbgGetActiveAttrib' will always require the GIL to be acquired.
+22648:[DEBUG]:   	 	1. Declare 'dbgGetActiveAttrib' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22649:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetActiveAttrib' to allow an error code to be returned.
+22650:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:518:5: Exception check on 'gil_dbgGetActiveAttrib' will always require the GIL to be acquired.
+22652:[DEBUG]:   	 	1. Declare 'gil_dbgGetActiveAttrib' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22653:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetActiveAttrib' to allow an error code to be returned.
+22654:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:523:5: Exception check on 'dbgGetActiveUniform' will always require the GIL to be acquired.
+22656:[DEBUG]:   	 	1. Declare 'dbgGetActiveUniform' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22657:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetActiveUniform' to allow an error code to be returned.
+22658:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:527:5: Exception check on 'gil_dbgGetActiveUniform' will always require the GIL to be acquired.
+22660:[DEBUG]:   	 	1. Declare 'gil_dbgGetActiveUniform' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22661:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetActiveUniform' to allow an error code to be returned.
+22662:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:532:5: Exception check on 'dbgGetAttachedShaders' will always require the GIL to be acquired.
+22664:[DEBUG]:   	 	1. Declare 'dbgGetAttachedShaders' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22665:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetAttachedShaders' to allow an error code to be returned.
+22666:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:536:5: Exception check on 'gil_dbgGetAttachedShaders' will always require the GIL to be acquired.
+22668:[DEBUG]:   	 	1. Declare 'gil_dbgGetAttachedShaders' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22669:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetAttachedShaders' to allow an error code to be returned.
+22670:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:551:5: Exception check on 'dbgGetBooleanv' will always require the GIL to be acquired.
+22672:[DEBUG]:   	 	1. Declare 'dbgGetBooleanv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22673:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetBooleanv' to allow an error code to be returned.
+22674:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:555:5: Exception check on 'gil_dbgGetBooleanv' will always require the GIL to be acquired.
+22676:[DEBUG]:   	 	1. Declare 'gil_dbgGetBooleanv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22677:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetBooleanv' to allow an error code to be returned.
+22678:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:560:5: Exception check on 'dbgGetBufferParameteriv' will always require the GIL to be acquired.
+22680:[DEBUG]:   	 	1. Declare 'dbgGetBufferParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22681:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetBufferParameteriv' to allow an error code to be returned.
+22682:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:564:5: Exception check on 'gil_dbgGetBufferParameteriv' will always require the GIL to be acquired.
+22684:[DEBUG]:   	 	1. Declare 'gil_dbgGetBufferParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22685:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetBufferParameteriv' to allow an error code to be returned.
+22686:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:577:5: Exception check on 'dbgGetFloatv' will always require the GIL to be acquired.
+22688:[DEBUG]:   	 	1. Declare 'dbgGetFloatv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22689:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetFloatv' to allow an error code to be returned.
+22690:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:581:5: Exception check on 'gil_dbgGetFloatv' will always require the GIL to be acquired.
+22692:[DEBUG]:   	 	1. Declare 'gil_dbgGetFloatv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22693:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetFloatv' to allow an error code to be returned.
+22694:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:586:5: Exception check on 'dbgGetFramebufferAttachmentParameteriv' will always require the GIL to be acquired.
+22696:[DEBUG]:   	 	1. Declare 'dbgGetFramebufferAttachmentParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22697:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetFramebufferAttachmentParameteriv' to allow an error code to be returned.
+22698:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:590:5: Exception check on 'gil_dbgGetFramebufferAttachmentParameteriv' will always require the GIL to be acquired.
+22700:[DEBUG]:   	 	1. Declare 'gil_dbgGetFramebufferAttachmentParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22701:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetFramebufferAttachmentParameteriv' to allow an error code to be returned.
+22702:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:595:5: Exception check on 'dbgGetIntegerv' will always require the GIL to be acquired.
+22704:[DEBUG]:   	 	1. Declare 'dbgGetIntegerv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22705:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetIntegerv' to allow an error code to be returned.
+22706:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:599:5: Exception check on 'gil_dbgGetIntegerv' will always require the GIL to be acquired.
+22708:[DEBUG]:   	 	1. Declare 'gil_dbgGetIntegerv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22709:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetIntegerv' to allow an error code to be returned.
+22710:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:604:5: Exception check on 'dbgGetProgramiv' will always require the GIL to be acquired.
+22712:[DEBUG]:   	 	1. Declare 'dbgGetProgramiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22713:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetProgramiv' to allow an error code to be returned.
+22714:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:608:5: Exception check on 'gil_dbgGetProgramiv' will always require the GIL to be acquired.
+22716:[DEBUG]:   	 	1. Declare 'gil_dbgGetProgramiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22717:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetProgramiv' to allow an error code to be returned.
+22718:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:613:5: Exception check on 'dbgGetProgramInfoLog' will always require the GIL to be acquired.
+22720:[DEBUG]:   	 	1. Declare 'dbgGetProgramInfoLog' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22721:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetProgramInfoLog' to allow an error code to be returned.
+22722:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:617:5: Exception check on 'gil_dbgGetProgramInfoLog' will always require the GIL to be acquired.
+22724:[DEBUG]:   	 	1. Declare 'gil_dbgGetProgramInfoLog' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22725:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetProgramInfoLog' to allow an error code to be returned.
+22726:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:622:5: Exception check on 'dbgGetRenderbufferParameteriv' will always require the GIL to be acquired.
+22728:[DEBUG]:   	 	1. Declare 'dbgGetRenderbufferParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22729:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetRenderbufferParameteriv' to allow an error code to be returned.
+22730:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:626:5: Exception check on 'gil_dbgGetRenderbufferParameteriv' will always require the GIL to be acquired.
+22732:[DEBUG]:   	 	1. Declare 'gil_dbgGetRenderbufferParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22733:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetRenderbufferParameteriv' to allow an error code to be returned.
+22734:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:631:5: Exception check on 'dbgGetShaderiv' will always require the GIL to be acquired.
+22736:[DEBUG]:   	 	1. Declare 'dbgGetShaderiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22737:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetShaderiv' to allow an error code to be returned.
+22738:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:635:5: Exception check on 'gil_dbgGetShaderiv' will always require the GIL to be acquired.
+22740:[DEBUG]:   	 	1. Declare 'gil_dbgGetShaderiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22741:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetShaderiv' to allow an error code to be returned.
+22742:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:640:5: Exception check on 'dbgGetShaderInfoLog' will always require the GIL to be acquired.
+22744:[DEBUG]:   	 	1. Declare 'dbgGetShaderInfoLog' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22745:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetShaderInfoLog' to allow an error code to be returned.
+22746:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:644:5: Exception check on 'gil_dbgGetShaderInfoLog' will always require the GIL to be acquired.
+22748:[DEBUG]:   	 	1. Declare 'gil_dbgGetShaderInfoLog' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22749:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetShaderInfoLog' to allow an error code to be returned.
+22750:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:650:5: Exception check on 'dbgGetShaderSource' will always require the GIL to be acquired.
+22752:[DEBUG]:   	 	1. Declare 'dbgGetShaderSource' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22753:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetShaderSource' to allow an error code to be returned.
+22754:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:654:5: Exception check on 'gil_dbgGetShaderSource' will always require the GIL to be acquired.
+22756:[DEBUG]:   	 	1. Declare 'gil_dbgGetShaderSource' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22757:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetShaderSource' to allow an error code to be returned.
+22758:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:667:5: Exception check on 'dbgGetTexParameterfv' will always require the GIL to be acquired.
+22760:[DEBUG]:   	 	1. Declare 'dbgGetTexParameterfv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22761:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetTexParameterfv' to allow an error code to be returned.
+22762:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:671:5: Exception check on 'gil_dbgGetTexParameterfv' will always require the GIL to be acquired.
+22764:[DEBUG]:   	 	1. Declare 'gil_dbgGetTexParameterfv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22765:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetTexParameterfv' to allow an error code to be returned.
+22766:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:676:5: Exception check on 'dbgGetTexParameteriv' will always require the GIL to be acquired.
+22768:[DEBUG]:   	 	1. Declare 'dbgGetTexParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22769:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetTexParameteriv' to allow an error code to be returned.
+22770:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:680:5: Exception check on 'gil_dbgGetTexParameteriv' will always require the GIL to be acquired.
+22772:[DEBUG]:   	 	1. Declare 'gil_dbgGetTexParameteriv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22773:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetTexParameteriv' to allow an error code to be returned.
+22774:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:685:5: Exception check on 'dbgGetUniformfv' will always require the GIL to be acquired.
+22776:[DEBUG]:   	 	1. Declare 'dbgGetUniformfv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22777:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetUniformfv' to allow an error code to be returned.
+22778:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:689:5: Exception check on 'gil_dbgGetUniformfv' will always require the GIL to be acquired.
+22780:[DEBUG]:   	 	1. Declare 'gil_dbgGetUniformfv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22781:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetUniformfv' to allow an error code to be returned.
+22782:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:694:5: Exception check on 'dbgGetUniformiv' will always require the GIL to be acquired.
+22784:[DEBUG]:   	 	1. Declare 'dbgGetUniformiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22785:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetUniformiv' to allow an error code to be returned.
+22786:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:698:5: Exception check on 'gil_dbgGetUniformiv' will always require the GIL to be acquired.
+22788:[DEBUG]:   	 	1. Declare 'gil_dbgGetUniformiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22789:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetUniformiv' to allow an error code to be returned.
+22790:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:712:5: Exception check on 'dbgGetVertexAttribfv' will always require the GIL to be acquired.
+22792:[DEBUG]:   	 	1. Declare 'dbgGetVertexAttribfv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22793:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetVertexAttribfv' to allow an error code to be returned.
+22794:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:716:5: Exception check on 'gil_dbgGetVertexAttribfv' will always require the GIL to be acquired.
+22796:[DEBUG]:   	 	1. Declare 'gil_dbgGetVertexAttribfv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22797:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetVertexAttribfv' to allow an error code to be returned.
+22798:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:721:5: Exception check on 'dbgGetVertexAttribiv' will always require the GIL to be acquired.
+22800:[DEBUG]:   	 	1. Declare 'dbgGetVertexAttribiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22801:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgGetVertexAttribiv' to allow an error code to be returned.
+22802:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:725:5: Exception check on 'gil_dbgGetVertexAttribiv' will always require the GIL to be acquired.
+22804:[DEBUG]:   	 	1. Declare 'gil_dbgGetVertexAttribiv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22805:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgGetVertexAttribiv' to allow an error code to be returned.
+22806:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:740:5: Exception check on 'dbgHint' will always require the GIL to be acquired.
+22808:[DEBUG]:   	 	1. Declare 'dbgHint' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22809:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgHint' to allow an error code to be returned.
+22810:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:744:5: Exception check on 'gil_dbgHint' will always require the GIL to be acquired.
+22812:[DEBUG]:   	 	1. Declare 'gil_dbgHint' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22813:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgHint' to allow an error code to be returned.
+22814:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:812:5: Exception check on 'dbgLineWidth' will always require the GIL to be acquired.
+22816:[DEBUG]:   	 	1. Declare 'dbgLineWidth' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22817:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgLineWidth' to allow an error code to be returned.
+22818:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:816:5: Exception check on 'gil_dbgLineWidth' will always require the GIL to be acquired.
+22820:[DEBUG]:   	 	1. Declare 'gil_dbgLineWidth' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22821:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgLineWidth' to allow an error code to be returned.
+22822:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:821:5: Exception check on 'dbgLinkProgram' will always require the GIL to be acquired.
+22824:[DEBUG]:   	 	1. Declare 'dbgLinkProgram' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22825:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgLinkProgram' to allow an error code to be returned.
+22826:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:825:5: Exception check on 'gil_dbgLinkProgram' will always require the GIL to be acquired.
+22828:[DEBUG]:   	 	1. Declare 'gil_dbgLinkProgram' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22829:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgLinkProgram' to allow an error code to be returned.
+22830:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:830:5: Exception check on 'dbgPixelStorei' will always require the GIL to be acquired.
+22832:[DEBUG]:   	 	1. Declare 'dbgPixelStorei' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22833:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgPixelStorei' to allow an error code to be returned.
+22834:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:834:5: Exception check on 'gil_dbgPixelStorei' will always require the GIL to be acquired.
+22836:[DEBUG]:   	 	1. Declare 'gil_dbgPixelStorei' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22837:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgPixelStorei' to allow an error code to be returned.
+22838:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:839:5: Exception check on 'dbgPolygonOffset' will always require the GIL to be acquired.
+22840:[DEBUG]:   	 	1. Declare 'dbgPolygonOffset' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22841:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgPolygonOffset' to allow an error code to be returned.
+22842:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:843:5: Exception check on 'gil_dbgPolygonOffset' will always require the GIL to be acquired.
+22844:[DEBUG]:   	 	1. Declare 'gil_dbgPolygonOffset' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22845:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgPolygonOffset' to allow an error code to be returned.
+22846:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:848:5: Exception check on 'dbgReadPixels' will always require the GIL to be acquired.
+22848:[DEBUG]:   	 	1. Declare 'dbgReadPixels' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22849:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgReadPixels' to allow an error code to be returned.
+22850:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:852:5: Exception check on 'gil_dbgReadPixels' will always require the GIL to be acquired.
+22852:[DEBUG]:   	 	1. Declare 'gil_dbgReadPixels' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22853:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgReadPixels' to allow an error code to be returned.
+22854:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:858:5: Exception check on 'dbgRenderbufferStorage' will always require the GIL to be acquired.
+22856:[DEBUG]:   	 	1. Declare 'dbgRenderbufferStorage' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22857:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgRenderbufferStorage' to allow an error code to be returned.
+22858:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:862:5: Exception check on 'gil_dbgRenderbufferStorage' will always require the GIL to be acquired.
+22860:[DEBUG]:   	 	1. Declare 'gil_dbgRenderbufferStorage' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22861:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgRenderbufferStorage' to allow an error code to be returned.
+22862:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:867:5: Exception check on 'dbgSampleCoverage' will always require the GIL to be acquired.
+22864:[DEBUG]:   	 	1. Declare 'dbgSampleCoverage' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22865:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgSampleCoverage' to allow an error code to be returned.
+22866:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:871:5: Exception check on 'gil_dbgSampleCoverage' will always require the GIL to be acquired.
+22868:[DEBUG]:   	 	1. Declare 'gil_dbgSampleCoverage' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22869:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgSampleCoverage' to allow an error code to be returned.
+22870:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:876:5: Exception check on 'dbgScissor' will always require the GIL to be acquired.
+22872:[DEBUG]:   	 	1. Declare 'dbgScissor' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22873:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgScissor' to allow an error code to be returned.
+22874:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:880:5: Exception check on 'gil_dbgScissor' will always require the GIL to be acquired.
+22876:[DEBUG]:   	 	1. Declare 'gil_dbgScissor' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22877:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgScissor' to allow an error code to be returned.
+22878:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:886:5: Exception check on 'dbgShaderSource' will always require the GIL to be acquired.
+22880:[DEBUG]:   	 	1. Declare 'dbgShaderSource' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22881:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgShaderSource' to allow an error code to be returned.
+22882:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:890:5: Exception check on 'gil_dbgShaderSource' will always require the GIL to be acquired.
+22884:[DEBUG]:   	 	1. Declare 'gil_dbgShaderSource' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22885:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgShaderSource' to allow an error code to be returned.
+22886:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:895:5: Exception check on 'dbgStencilFunc' will always require the GIL to be acquired.
+22888:[DEBUG]:   	 	1. Declare 'dbgStencilFunc' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22889:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgStencilFunc' to allow an error code to be returned.
+22890:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:899:5: Exception check on 'gil_dbgStencilFunc' will always require the GIL to be acquired.
+22892:[DEBUG]:   	 	1. Declare 'gil_dbgStencilFunc' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22893:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgStencilFunc' to allow an error code to be returned.
+22894:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:904:5: Exception check on 'dbgStencilFuncSeparate' will always require the GIL to be acquired.
+22896:[DEBUG]:   	 	1. Declare 'dbgStencilFuncSeparate' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22897:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgStencilFuncSeparate' to allow an error code to be returned.
+22898:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:908:5: Exception check on 'gil_dbgStencilFuncSeparate' will always require the GIL to be acquired.
+22900:[DEBUG]:   	 	1. Declare 'gil_dbgStencilFuncSeparate' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22901:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgStencilFuncSeparate' to allow an error code to be returned.
+22902:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:913:5: Exception check on 'dbgStencilMask' will always require the GIL to be acquired.
+22904:[DEBUG]:   	 	1. Declare 'dbgStencilMask' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22905:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgStencilMask' to allow an error code to be returned.
+22906:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:917:5: Exception check on 'gil_dbgStencilMask' will always require the GIL to be acquired.
+22908:[DEBUG]:   	 	1. Declare 'gil_dbgStencilMask' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22909:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgStencilMask' to allow an error code to be returned.
+22910:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:922:5: Exception check on 'dbgStencilMaskSeparate' will always require the GIL to be acquired.
+22912:[DEBUG]:   	 	1. Declare 'dbgStencilMaskSeparate' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22913:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgStencilMaskSeparate' to allow an error code to be returned.
+22914:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:926:5: Exception check on 'gil_dbgStencilMaskSeparate' will always require the GIL to be acquired.
+22916:[DEBUG]:   	 	1. Declare 'gil_dbgStencilMaskSeparate' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22917:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgStencilMaskSeparate' to allow an error code to be returned.
+22918:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:931:5: Exception check on 'dbgStencilOp' will always require the GIL to be acquired.
+22920:[DEBUG]:   	 	1. Declare 'dbgStencilOp' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22921:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgStencilOp' to allow an error code to be returned.
+22922:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:935:5: Exception check on 'gil_dbgStencilOp' will always require the GIL to be acquired.
+22924:[DEBUG]:   	 	1. Declare 'gil_dbgStencilOp' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22925:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgStencilOp' to allow an error code to be returned.
+22926:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:940:5: Exception check on 'dbgStencilOpSeparate' will always require the GIL to be acquired.
+22928:[DEBUG]:   	 	1. Declare 'dbgStencilOpSeparate' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22929:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgStencilOpSeparate' to allow an error code to be returned.
+22930:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:944:5: Exception check on 'gil_dbgStencilOpSeparate' will always require the GIL to be acquired.
+22932:[DEBUG]:   	 	1. Declare 'gil_dbgStencilOpSeparate' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22933:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgStencilOpSeparate' to allow an error code to be returned.
+22934:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:949:5: Exception check on 'dbgTexImage2D' will always require the GIL to be acquired.
+22936:[DEBUG]:   	 	1. Declare 'dbgTexImage2D' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22937:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgTexImage2D' to allow an error code to be returned.
+22938:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:953:5: Exception check on 'gil_dbgTexImage2D' will always require the GIL to be acquired.
+22940:[DEBUG]:   	 	1. Declare 'gil_dbgTexImage2D' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22941:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgTexImage2D' to allow an error code to be returned.
+22942:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:958:5: Exception check on 'dbgTexParameterf' will always require the GIL to be acquired.
+22944:[DEBUG]:   	 	1. Declare 'dbgTexParameterf' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22945:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgTexParameterf' to allow an error code to be returned.
+22946:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:962:5: Exception check on 'gil_dbgTexParameterf' will always require the GIL to be acquired.
+22948:[DEBUG]:   	 	1. Declare 'gil_dbgTexParameterf' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22949:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgTexParameterf' to allow an error code to be returned.
+22950:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:977:5: Exception check on 'dbgTexParameteri' will always require the GIL to be acquired.
+22952:[DEBUG]:   	 	1. Declare 'dbgTexParameteri' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22953:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgTexParameteri' to allow an error code to be returned.
+22954:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:981:5: Exception check on 'gil_dbgTexParameteri' will always require the GIL to be acquired.
+22956:[DEBUG]:   	 	1. Declare 'gil_dbgTexParameteri' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22957:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgTexParameteri' to allow an error code to be returned.
+22958:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:996:5: Exception check on 'dbgTexSubImage2D' will always require the GIL to be acquired.
+22960:[DEBUG]:   	 	1. Declare 'dbgTexSubImage2D' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22961:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgTexSubImage2D' to allow an error code to be returned.
+22962:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1000:5: Exception check on 'gil_dbgTexSubImage2D' will always require the GIL to be acquired.
+22964:[DEBUG]:   	 	1. Declare 'gil_dbgTexSubImage2D' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22965:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgTexSubImage2D' to allow an error code to be returned.
+22966:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1005:5: Exception check on 'dbgUniform1f' will always require the GIL to be acquired.
+22968:[DEBUG]:   	 	1. Declare 'dbgUniform1f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22969:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform1f' to allow an error code to be returned.
+22970:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1009:5: Exception check on 'gil_dbgUniform1f' will always require the GIL to be acquired.
+22972:[DEBUG]:   	 	1. Declare 'gil_dbgUniform1f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22973:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform1f' to allow an error code to be returned.
+22974:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1014:5: Exception check on 'dbgUniform1fv' will always require the GIL to be acquired.
+22976:[DEBUG]:   	 	1. Declare 'dbgUniform1fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22977:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform1fv' to allow an error code to be returned.
+22978:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1018:5: Exception check on 'gil_dbgUniform1fv' will always require the GIL to be acquired.
+22980:[DEBUG]:   	 	1. Declare 'gil_dbgUniform1fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22981:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform1fv' to allow an error code to be returned.
+22982:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1023:5: Exception check on 'dbgUniform1i' will always require the GIL to be acquired.
+22984:[DEBUG]:   	 	1. Declare 'dbgUniform1i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22985:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform1i' to allow an error code to be returned.
+22986:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1027:5: Exception check on 'gil_dbgUniform1i' will always require the GIL to be acquired.
+22988:[DEBUG]:   	 	1. Declare 'gil_dbgUniform1i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22989:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform1i' to allow an error code to be returned.
+22990:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1032:5: Exception check on 'dbgUniform1iv' will always require the GIL to be acquired.
+22992:[DEBUG]:   	 	1. Declare 'dbgUniform1iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22993:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform1iv' to allow an error code to be returned.
+22994:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1036:5: Exception check on 'gil_dbgUniform1iv' will always require the GIL to be acquired.
+22996:[DEBUG]:   	 	1. Declare 'gil_dbgUniform1iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+22997:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform1iv' to allow an error code to be returned.
+22998:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1041:5: Exception check on 'dbgUniform2f' will always require the GIL to be acquired.
+23000:[DEBUG]:   	 	1. Declare 'dbgUniform2f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23001:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform2f' to allow an error code to be returned.
+23002:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1045:5: Exception check on 'gil_dbgUniform2f' will always require the GIL to be acquired.
+23004:[DEBUG]:   	 	1. Declare 'gil_dbgUniform2f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23005:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform2f' to allow an error code to be returned.
+23006:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1050:5: Exception check on 'dbgUniform2fv' will always require the GIL to be acquired.
+23008:[DEBUG]:   	 	1. Declare 'dbgUniform2fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23009:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform2fv' to allow an error code to be returned.
+23010:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1054:5: Exception check on 'gil_dbgUniform2fv' will always require the GIL to be acquired.
+23012:[DEBUG]:   	 	1. Declare 'gil_dbgUniform2fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23013:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform2fv' to allow an error code to be returned.
+23014:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1059:5: Exception check on 'dbgUniform2i' will always require the GIL to be acquired.
+23016:[DEBUG]:   	 	1. Declare 'dbgUniform2i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23017:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform2i' to allow an error code to be returned.
+23018:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1063:5: Exception check on 'gil_dbgUniform2i' will always require the GIL to be acquired.
+23020:[DEBUG]:   	 	1. Declare 'gil_dbgUniform2i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23021:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform2i' to allow an error code to be returned.
+23022:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1068:5: Exception check on 'dbgUniform2iv' will always require the GIL to be acquired.
+23024:[DEBUG]:   	 	1. Declare 'dbgUniform2iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23025:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform2iv' to allow an error code to be returned.
+23026:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1072:5: Exception check on 'gil_dbgUniform2iv' will always require the GIL to be acquired.
+23028:[DEBUG]:   	 	1. Declare 'gil_dbgUniform2iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23029:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform2iv' to allow an error code to be returned.
+23030:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1077:5: Exception check on 'dbgUniform3f' will always require the GIL to be acquired.
+23032:[DEBUG]:   	 	1. Declare 'dbgUniform3f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23033:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform3f' to allow an error code to be returned.
+23034:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1081:5: Exception check on 'gil_dbgUniform3f' will always require the GIL to be acquired.
+23036:[DEBUG]:   	 	1. Declare 'gil_dbgUniform3f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23037:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform3f' to allow an error code to be returned.
+23038:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1086:5: Exception check on 'dbgUniform3fv' will always require the GIL to be acquired.
+23040:[DEBUG]:   	 	1. Declare 'dbgUniform3fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23041:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform3fv' to allow an error code to be returned.
+23042:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1090:5: Exception check on 'gil_dbgUniform3fv' will always require the GIL to be acquired.
+23044:[DEBUG]:   	 	1. Declare 'gil_dbgUniform3fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23045:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform3fv' to allow an error code to be returned.
+23046:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1095:5: Exception check on 'dbgUniform3i' will always require the GIL to be acquired.
+23048:[DEBUG]:   	 	1. Declare 'dbgUniform3i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23049:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform3i' to allow an error code to be returned.
+23050:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1099:5: Exception check on 'gil_dbgUniform3i' will always require the GIL to be acquired.
+23052:[DEBUG]:   	 	1. Declare 'gil_dbgUniform3i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23053:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform3i' to allow an error code to be returned.
+23054:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1104:5: Exception check on 'dbgUniform3iv' will always require the GIL to be acquired.
+23056:[DEBUG]:   	 	1. Declare 'dbgUniform3iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23057:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform3iv' to allow an error code to be returned.
+23058:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1108:5: Exception check on 'gil_dbgUniform3iv' will always require the GIL to be acquired.
+23060:[DEBUG]:   	 	1. Declare 'gil_dbgUniform3iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23061:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform3iv' to allow an error code to be returned.
+23062:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1113:5: Exception check on 'dbgUniform4f' will always require the GIL to be acquired.
+23064:[DEBUG]:   	 	1. Declare 'dbgUniform4f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23065:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform4f' to allow an error code to be returned.
+23066:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1117:5: Exception check on 'gil_dbgUniform4f' will always require the GIL to be acquired.
+23068:[DEBUG]:   	 	1. Declare 'gil_dbgUniform4f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23069:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform4f' to allow an error code to be returned.
+23070:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1122:5: Exception check on 'dbgUniform4fv' will always require the GIL to be acquired.
+23072:[DEBUG]:   	 	1. Declare 'dbgUniform4fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23073:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform4fv' to allow an error code to be returned.
+23074:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1126:5: Exception check on 'gil_dbgUniform4fv' will always require the GIL to be acquired.
+23076:[DEBUG]:   	 	1. Declare 'gil_dbgUniform4fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23077:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform4fv' to allow an error code to be returned.
+23078:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1131:5: Exception check on 'dbgUniform4i' will always require the GIL to be acquired.
+23080:[DEBUG]:   	 	1. Declare 'dbgUniform4i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23081:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform4i' to allow an error code to be returned.
+23082:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1135:5: Exception check on 'gil_dbgUniform4i' will always require the GIL to be acquired.
+23084:[DEBUG]:   	 	1. Declare 'gil_dbgUniform4i' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23085:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform4i' to allow an error code to be returned.
+23086:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1140:5: Exception check on 'dbgUniform4iv' will always require the GIL to be acquired.
+23088:[DEBUG]:   	 	1. Declare 'dbgUniform4iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23089:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniform4iv' to allow an error code to be returned.
+23090:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1144:5: Exception check on 'gil_dbgUniform4iv' will always require the GIL to be acquired.
+23092:[DEBUG]:   	 	1. Declare 'gil_dbgUniform4iv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23093:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniform4iv' to allow an error code to be returned.
+23094:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1169:5: Exception check on 'dbgUniformMatrix4fv' will always require the GIL to be acquired.
+23096:[DEBUG]:   	 	1. Declare 'dbgUniformMatrix4fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23097:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUniformMatrix4fv' to allow an error code to be returned.
+23098:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1173:5: Exception check on 'gil_dbgUniformMatrix4fv' will always require the GIL to be acquired.
+23100:[DEBUG]:   	 	1. Declare 'gil_dbgUniformMatrix4fv' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23101:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUniformMatrix4fv' to allow an error code to be returned.
+23102:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1178:5: Exception check on 'dbgUseProgram' will always require the GIL to be acquired.
+23104:[DEBUG]:   	 	1. Declare 'dbgUseProgram' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23105:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgUseProgram' to allow an error code to be returned.
+23106:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1182:5: Exception check on 'gil_dbgUseProgram' will always require the GIL to be acquired.
+23108:[DEBUG]:   	 	1. Declare 'gil_dbgUseProgram' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23109:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgUseProgram' to allow an error code to be returned.
+23110:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1187:5: Exception check on 'dbgValidateProgram' will always require the GIL to be acquired.
+23112:[DEBUG]:   	 	1. Declare 'dbgValidateProgram' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23113:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgValidateProgram' to allow an error code to be returned.
+23114:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1191:5: Exception check on 'gil_dbgValidateProgram' will always require the GIL to be acquired.
+23116:[DEBUG]:   	 	1. Declare 'gil_dbgValidateProgram' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23117:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgValidateProgram' to allow an error code to be returned.
+23118:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1196:5: Exception check on 'dbgVertexAttrib1f' will always require the GIL to be acquired.
+23120:[DEBUG]:   	 	1. Declare 'dbgVertexAttrib1f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23121:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgVertexAttrib1f' to allow an error code to be returned.
+23122:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1200:5: Exception check on 'gil_dbgVertexAttrib1f' will always require the GIL to be acquired.
+23124:[DEBUG]:   	 	1. Declare 'gil_dbgVertexAttrib1f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23125:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgVertexAttrib1f' to allow an error code to be returned.
+23126:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1215:5: Exception check on 'dbgVertexAttrib2f' will always require the GIL to be acquired.
+23128:[DEBUG]:   	 	1. Declare 'dbgVertexAttrib2f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23129:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgVertexAttrib2f' to allow an error code to be returned.
+23130:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1219:5: Exception check on 'gil_dbgVertexAttrib2f' will always require the GIL to be acquired.
+23132:[DEBUG]:   	 	1. Declare 'gil_dbgVertexAttrib2f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23133:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgVertexAttrib2f' to allow an error code to be returned.
+23134:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1234:5: Exception check on 'dbgVertexAttrib3f' will always require the GIL to be acquired.
+23136:[DEBUG]:   	 	1. Declare 'dbgVertexAttrib3f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23137:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgVertexAttrib3f' to allow an error code to be returned.
+23138:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1238:5: Exception check on 'gil_dbgVertexAttrib3f' will always require the GIL to be acquired.
+23140:[DEBUG]:   	 	1. Declare 'gil_dbgVertexAttrib3f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23141:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgVertexAttrib3f' to allow an error code to be returned.
+23142:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1253:5: Exception check on 'dbgVertexAttrib4f' will always require the GIL to be acquired.
+23144:[DEBUG]:   	 	1. Declare 'dbgVertexAttrib4f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23145:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgVertexAttrib4f' to allow an error code to be returned.
+23146:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1257:5: Exception check on 'gil_dbgVertexAttrib4f' will always require the GIL to be acquired.
+23148:[DEBUG]:   	 	1. Declare 'gil_dbgVertexAttrib4f' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23149:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgVertexAttrib4f' to allow an error code to be returned.
+23150:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1272:5: Exception check on 'dbgVertexAttribPointer' will always require the GIL to be acquired.
+23152:[DEBUG]:   	 	1. Declare 'dbgVertexAttribPointer' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23153:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgVertexAttribPointer' to allow an error code to be returned.
+23154:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1276:5: Exception check on 'gil_dbgVertexAttribPointer' will always require the GIL to be acquired.
+23156:[DEBUG]:   	 	1. Declare 'gil_dbgVertexAttribPointer' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23157:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgVertexAttribPointer' to allow an error code to be returned.
+23158:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1281:5: Exception check on 'dbgViewport' will always require the GIL to be acquired.
+23160:[DEBUG]:   	 	1. Declare 'dbgViewport' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23161:[DEBUG]:   	 	2. Use an 'int' return type on 'dbgViewport' to allow an error code to be returned.
+23162:[DEBUG]:   	 performance hint: kivy/graphics/cgl_backend/cgl_debug.pyx:1285:5: Exception check on 'gil_dbgViewport' will always require the GIL to be acquired.
+23164:[DEBUG]:   	 	1. Declare 'gil_dbgViewport' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+23165:[DEBUG]:   	 	2. Use an 'int' return type on 'gil_dbgViewport' to allow an error code to be returned.
+23253:[DEBUG]:   	 performance hint: kivy/core/window/_window_sdl2.pyx:822:5: Exception check on 'custom_titlebar_handler_callback' will always require the GIL to be acquired. Declare 'custom_titlebar_handler_callback' as 'noexcept' if you control the definition and you're sure you don't want the function to raise exceptions.
+25501:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/asyncio/exceptions.py'...
+25611:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/email/errors.py'...
+26277:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_baseexception.py'...
+26308:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_capi/test_exceptions.py'...
+26414:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_ctypes/test_dlerror.py'...
+26489:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_doctest/sample_doctest_errors.py'...
+26527:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_exception_group.py'...
+26528:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_exception_hierarchy.py'...
+26529:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_exception_variations.py'...
+26530:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_exceptions.py'...
+26593:SyntaxError: from __future__ imports must occur at the beginning of the file
+27133:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_tomllib/test_error.py'...
+27155:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/test/test_traceback.py'...
+27306:SyntaxError: unknown encoding: uft-8
+27311:SyntaxError: encoding problem: utf8 with BOM
+27317:SyntaxError: invalid character '€' (U+20AC)
+27323:SyntaxError: Non-UTF-8 code starting with '\xf6' on line 1, but no encoding declared; see https://peps.python.org/pep-0263/ for details
+27384:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/traceback.py'...
+27428:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/urllib/error.py'...
+27475:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib/xml/sax/_exceptions.py'...
+28011:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/requests/exceptions.py'...
+28066:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/_distutils/compilers/C/errors.py'...
+28072:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/_distutils/compilers/errors.py'...
+28083:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/_distutils/errors.py'...
+28114:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/_vendor/autocommand/errors.py'...
+28271:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/config/_validate_pyproject/error_reporting.py'...
+28273:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/config/_validate_pyproject/fastjsonschema_exceptions.py'...
+28282:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/setuptools/errors.py'...
+28319:Compiling '/home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/build/python-installs/khalajoybug/arm64-v8a/urllib3/exceptions.py'...
+28414:[DEBUG]:   -> running zip -X /home/runner/work/Khala-joybug/Khala-joybug/.buildozer/android/platform/build-arm64-v8a/dists/khalajoybug/_python_bundle__arm64-v8a/_python_bundle/stdlib.zip ./traceback.pyc ./functools.pyc ./profile.pyc ./_strptime.pyc ./pdb.pyc ./_pyio.pyc ./bz2.pyc ./opcode.pyc ./_android_support.pyc ./_collections_abc.pyc ./site.py.orig ./pty.pyc ./getpass.pyc ./argparse.pyc ./tty.pyc ./sre_constants.pyc ./_threading_local.pyc ./linecache.pyc ./keyword.pyc ./pkgutil.pyc ./o
+28415:[DEBUG]:   	  adding: traceback.pyc (deflated 55%)
+28628:[DEBUG]:   	  adding: urllib/error.pyc (deflated 50%)
+28696:[DEBUG]:   	  adding: email/errors.pyc (deflated 65%)
+28880:[DEBUG]:   	  adding: xml/sax/_exceptions.pyc (deflated 55%)
+28953:[DEBUG]:   	  adding: asyncio/exceptions.pyc (deflated 51%)
+29698:[INFO]:     - copy ./urllib3/exceptions.pyc
+29753:[INFO]:     - copy ./setuptools/errors.pyc
+29793:[INFO]:     - copy ./setuptools/config/_validate_pyproject/error_reporting.pyc
+29796:[INFO]:     - copy ./setuptools/config/_validate_pyproject/fastjsonschema_exceptions.pyc
+29811:[INFO]:     - copy ./setuptools/_distutils/errors.pyc
+29854:[INFO]:     - copy ./setuptools/_distutils/compilers/errors.pyc
+29862:[INFO]:     - copy ./setuptools/_distutils/compilers/C/errors.pyc
+29966:[INFO]:     - copy ./setuptools/_vendor/autocommand/errors.pyc
+30174:[INFO]:     - copy ./requests/exceptions.pyc
+30546:[INFO]:    # Android package filename not found in build output. Guessing...
